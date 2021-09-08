@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo on Live Server
 
-https://angular-recipe-book-udem-c8ba8.firebaseapp.com/auth
+Check out this working project on: https://angular-recipe-book-udem-c8ba8.firebaseapp.com
 
 ## Development server
 
