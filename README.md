@@ -1,4 +1,4 @@
-# Beginners friendly Angular 12 Project
+# Beginners Friendly Angular 12 Project
 This project was created during the phase of my learning. This is specially for those who just started to learn angular.
 Happy Coding!!!
 
